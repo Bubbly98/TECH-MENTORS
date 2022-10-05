@@ -1,0 +1,39 @@
+.clearfix { overflow: auto }
+
+div.background { 
+	width: 1000px;
+	margin-top:5px;
+	margin-bottom: 5px;
+ }
+
+div.intro div.backgroundimage {
+	width: 960px;
+	float: left;
+}
+
+div.backgroundimage img {
+	float: left;
+}
+
+div.teachercontent {
+	width: 1000px;
+	background: #eee;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+}
+
+div.teacher-col {
+	margin-left: 15px;
+	width: 313.33px;
+	float: left;
+}
+
+div.teacher-col img {
+	width: 313.33px;
+}
+
+div.teacher-col h2 { 
+	margin: 30px 0 30px 0;
+	font-size: 30px;
+	font-weight: normal;
+}

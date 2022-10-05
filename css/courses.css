@@ -1,0 +1,40 @@
+.clearfix { overflow: auto }
+
+p { margin-top: 10px; margin-bottom: 15px; font-size: 18px; color: #444;}
+
+div.background { 
+	width: 1000px;
+	margin-bottom: 0px;
+ }
+
+div.background div.backgroundimage {
+	width: 1000px;
+	float: left;
+}
+
+div.backgroundimage img {
+	float: left;
+}
+
+div.coursecontent {
+	width: 1000px;
+	background: #eee;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+}
+
+div.course-col {
+	margin-left: 15px;
+	width: 146.66px;
+	float: left;
+}
+
+div.course-col img {
+	width: 146.66px;
+}
+
+div.course-col h2 { 
+	margin: 30px 0 30px 0;
+	font-size: 30px;
+	font-weight: normal;
+}

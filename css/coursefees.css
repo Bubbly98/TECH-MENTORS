@@ -1,0 +1,15 @@
+div.background { 
+	width: 960px;
+	margin:30px;
+	margin-bottom: 5px;
+ }
+
+div.background div.backgroundimage {
+	width: 903px;
+	float: left;
+}
+
+div.backgroundimage img {
+	float: left;
+}
+
