@@ -1,4 +1,4 @@
-# TECH-MENTORS
+# 
 This is a website for an institute that provides higher studies online.
 
 ------------Features of the website are----------- 
